@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmad Zidni</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Zidni Hidayat</h1>
 <h3 align="center">Im from Indonesia</h3>
 
 
