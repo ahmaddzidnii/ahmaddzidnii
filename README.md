@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React**
 
-- ⚡ Fun fact **I liked music :v**
+- ⚡ Fun fact **I liked music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
