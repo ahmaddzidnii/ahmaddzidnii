@@ -9,7 +9,8 @@
 - 👨‍💻 All of my projects are available at [ahmaddzidnii](github.com/ahmaddzidnii)
 
 - 🎼 **I liked playing piano**
-
+- I like use ChatGPT :v
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmad-zidni-hidayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad zidni" height="30" width="40" /></a>
