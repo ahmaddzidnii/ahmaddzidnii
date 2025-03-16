@@ -7,9 +7,6 @@
 - 🌱 I’m currently learning **Next Js And Laravel**
 
 - 👨‍💻 All of my projects are available at [ahmaddzidnii](github.com/ahmaddzidnii)
-
-- 🎼 **I liked playing piano**
-- I like use ChatGPT :v
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
