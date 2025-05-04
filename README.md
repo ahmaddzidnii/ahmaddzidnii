@@ -64,4 +64,4 @@
 
 <p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmaddzidnii&" alt="ahmaddzidnii" /></p>
 
-<img src="https://raw.githubusercontent.com/ahmaddzidnii/ahmaddzidnii/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ahmaddzidnii/ahmaddzidnii/output/snake-game.svg" alt="Snake animation" />
